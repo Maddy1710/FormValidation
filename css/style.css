@@ -1,0 +1,40 @@
+.sideImage {
+  height: 100vh;
+  width: 65vw;
+}
+
+.inputText {
+  background-color: #F4F6F8;
+  color: grey;
+  width: 100%;
+  border:1px solid #E0E0E0;
+  border-radius: 3px;
+}
+
+.overFlow {
+  overflow: hidden;
+}
+
+.signin_container {
+  padding: 50px 100px 100px;
+  line-height: 50px;
+  /* width: 40vw; */
+}
+.allsignin{
+  width: 100vw;
+}
+.btn-primary {
+  width: 130px;
+  border-radius: 20px;
+  margin: 40px 0px 0px;
+}
+
+.formError{
+  color: red;
+  font-size: 15px;
+}
+.successHead{
+  margin: 40% 0 0;
+  font-size: 4rem;
+  text-align: center;
+}
